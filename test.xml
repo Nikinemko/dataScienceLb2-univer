@@ -1,0 +1,11 @@
+<!DOCTYPE xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a comment -->
+<note date="8/31/12">
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading type="Reminder"/>
+    <body>Don't forget me this weekend!</body>
+    <!-- This is a multiline comment,
+ which take a bit of care to parse -->
+</note>
